@@ -1,9 +1,9 @@
 # Continuum-Robot
 
 ___
-|Motor Driver | |
-|Motors | |
-|Micro Controller | |
+|Motor Driver | | 
+|Motors | | 
+|Micro Controller | | 
 ___
 
 ### Objective:
