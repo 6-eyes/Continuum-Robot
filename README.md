@@ -1,9 +1,9 @@
 # Continuum-Robot
 
 ___
-|Motor Driver | |  
-|Motors | |  
-|Micro Controller | |  
+|Motor Driver | TB6612FNG|  
+|Motors | N20-3V micro|  
+|Micro Controller | STM8S103F3P6|  
 ___
 
 ### Objective:
