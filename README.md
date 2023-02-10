@@ -4,6 +4,8 @@ ___
 |Motor Driver | TB6612FNG|  
 |Motors | N20-3V micro|  
 |Micro Controller | STM8S103F3P6|  
+Backbone Dia: 3mm
+Tendon Dia: 0.45mm
 ___
 
 ### Objective:
