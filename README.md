@@ -20,3 +20,5 @@ ___
 ### Model Updates
 1. Make slots to incorporate microcontroller properly
 2. Increase dia of Tendon hole.
+3. Make connection holes nearer to backbone
+4. Make tendon attachment piece
