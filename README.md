@@ -14,3 +14,9 @@ ___
 2. Getting control over motors
 3. Testing motors with a segment
 4. Determining accuracy
+
+
+---
+### Model Updates
+1. Make slots to incorporate microcontroller properly
+2. Increase dia of Tendon hole.
