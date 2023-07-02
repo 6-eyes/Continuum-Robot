@@ -21,3 +21,4 @@ ___
 5. Getting control over motors
 6. Testing motors with a segment
 7. Determining accuracy
+8. Determining dynamics
