@@ -13,7 +13,7 @@ Backbone Dia = 3mm
 Tendon Dia = 0.45mm
 ___
 
-### Objective:
+### Objectives:
 1. ~CAD model development and updation~
 2.  ~Mathematical Model and analysis~
 3. ~Testing Motor and Motor Drivers~
