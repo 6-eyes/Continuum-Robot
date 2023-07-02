@@ -1,5 +1,5 @@
 # Continuum-Robot
-Head to Documentation [HERE]().
+Head to Documentation [HERE](https://github.com/xD-prateek/Continuum-Robot/blob/main/Continuum%20Robotics.pdf).
 ___
 | Component | Name |
 | -- | -- |
