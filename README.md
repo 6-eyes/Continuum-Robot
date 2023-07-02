@@ -9,8 +9,8 @@ ___
 
 #### Constants
 Threshold Voltage to move motor = 0.6V  
-Backbone Dia: 3mm  
-Tendon Dia: 0.45mm
+Backbone Dia = 3mm  
+Tendon Dia = 0.45mm
 ___
 
 ### Objective:
